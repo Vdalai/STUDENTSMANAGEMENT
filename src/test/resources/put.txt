@@ -1,0 +1,5 @@
+{
+        "stuId": 109,
+        "stuName": "Mahi07",
+        "marks": 50
+    }
